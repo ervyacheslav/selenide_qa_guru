@@ -50,6 +50,7 @@ public class SelenideRepositorySearch {
                 "    $(\"#second\").should(visible).click();\n" +
                 "  }\n" +
                 "}"));
+        sleep(6000);
 
     }
 }
